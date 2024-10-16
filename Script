@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-05
 // @description  try to take over the world!
-// @author       You
+// @author       ShadowMods
 // @match        https://pastebin.com/raw/EZ5ntGgB
 // @include      *://kirka.io/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
